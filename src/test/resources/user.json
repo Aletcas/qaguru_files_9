@@ -1,0 +1,12 @@
+{
+  "name": "Elena",
+  "nick": "Aletca",
+  "favorite_flowers": [
+    "roses",
+    "tulips"
+  ],
+  "address": {
+    "street": "Lenina",
+    "hourse": 1
+  }
+}
